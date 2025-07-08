@@ -1,0 +1,24 @@
+html{
+    background-color:rgb(255, 237, 216);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-left:90px;
+    margin-right:90px;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+.gambar-makanan{
+    display: flex;
+    justify-content: center;
+}
+.gambar-makanan img{
+border-radius:20px;
+    border:8px rgb(219, 205, 175) solid;
+}
